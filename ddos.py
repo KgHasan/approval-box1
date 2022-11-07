@@ -27,7 +27,7 @@ print('''\r\n
   \033[1;92m×××××××××××××××××\033[1;93m×××××××××××××××\033[1;92m×××××××××××××××××
           \033[1;93mGithub: https://github.com/KgHasan              
           \033[1;96m[!]DO NOT ATTACK GOV WEBSITE[!]           
- \033[1;92m×××××××××××××××××\033[1;93m×××××××××××××××\033[1;92m×××××××××××××××××\r\n''')
+  \033[1;92m×××××××××××××××××\033[1;93m×××××××××××××××\033[1;92m×××××××××××××××××\r\n''')
 
 useragents=["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1",
             "Mozilla/5.0 (Android; Linux armv7l; rv:2.0.1) Gecko/20100101 Firefox/4.0.1 Fennec/2.0.1",
