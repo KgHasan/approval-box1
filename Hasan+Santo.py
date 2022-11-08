@@ -325,10 +325,10 @@ def banner():
   \033[1;32m|     \033[1;33m[✓] CREATED BY\33[0;m   :  \033[1;33mASRAFUL ISLAM HASAN   \033[1;92m|
   \033[1;32m|     \033[1;32m[✓] FACEBOK      : \033[1;34m Hasa N                \033[1;92m|
   \033[1;32m|     \033[1;35m[✓] GITHUB       :  \033[1;35mKgHasan               \033[1;92m|
-  \033[1;32m|     \033[1;36m[✓] TOOL STATUS  :  \033[1;36mFree Usar Agent    \033[1;92m|
+  \033[1;32m|     \033[1;36m[✓] TOOL STATUS  :  \033[1;36mFree Usar Agent       \033[1;92m|
   \033[1;32m|     \033[1;35m[✓] TEAM         :  \033[1;35mKST                   \033[1;92m|
   \033[1;32m|     \033[1;36m[✓] TOOL VIRSION :  \033[1;36m2.4                   \033[1;92m|
-  \033[1;92m×××××××××××××××××\033[1;93m×××××××××××××××\033[1;92m×××××××××××××××××''' {P}""")
+  \033[1;92m×××××××××××××××××\033[1;93m×××××××××××××××\033[1;92m××××××××××××××××× {P}""")
 
 
     
@@ -385,7 +385,7 @@ def main():
     print(f'{M}║══[ [•] VERSION   : {H}1.0.9')
     print(f'{M}╚══[ [•] TOOL NAME : {H}BLACKX RANDOM\n')
     
-    print(f"{M}╔══[{H}[{M}1{H}] {BLACK}RANDOM BD 06 DIGIT{RED} (CHOICE) ")
+    print(f"{M}╔══[{H}[{M}1{H}] \033[1;92mRANDOM BD 06 DIGIT{RED} (CHOICE) ")
     print(f"║══[{H}[{M}2{H}] \033[1;92mRANDOM BD 07 DIGIT {RED}(CHOICE)")
     print(f"║══[{H}[{M}3{H}] \033[1;92mRANDOM BD 08 DIGIT {RED}(CHOICE)")
     print(f"║══[{H}[{M}4{H}] \033[1;92mRANDOM BD 09 DIGIT {RED}(CHOICE)")
