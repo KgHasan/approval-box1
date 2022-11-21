@@ -13,7 +13,7 @@ printf "\e[1;33m     |_|_|  \__,_|\___|_|\_\ \e[0m\e[1;32m |_____| .__/ \e[0m\n"
 printf "\e[1;32m                                    | |    \e[0m\n"
 printf "\e[1;32m                                    |_|    \e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[1;33m    Created By ASRAFUL ISLAM \e[0m\e[1;31m(\e[0m\e[1;33m HASAN-VAU \e[0m\e[1;31m)\e[0m\n"
+printf "\e[0m\e[1;33m    Created By \033[1;92mASRAFUL ISLAM \e[0m\e[1;31m(\e[0m\e[1;96m HASAN-VAU \e[0m\e[1;31m)\e[0m\n"
 
 }
 
@@ -21,7 +21,7 @@ menu() {
 printf "\e[0m\n"
 printf "\e[0m\e[1;96m  \e===>\033[1;91m[\e[1;37m01\e[0m\e[1;31m]\e[0m\e[1;33m My IP\e[0m\n"
 printf "\e[0m\e[1;96m  \e===>\033[1;91m[\e[1;37m02\e[0m\e[1;31m]\e[0m\e[1;33m Track Ip\e[0m\n"
-printf "\e[0m\e[1;96m  \e===>[\033[1;91m\e[1;37m00\e[0m\e[1;31m]\e[0m\e[1;33m Exit\e[0m\n"
+printf "\e[0m\e[1;96m  \e===>\033[1;91m[\e[1;37m00\e[0m\e[1;31m]\e[0m\e[1;33m Exit\e[0m\n"
 printf "\e[0m\n"
 read -p $'  \e[1;31m[\e[0m\e[1;37m~\e[0m\e[1;31m]\e[0m\e[1;92m Choice Option \e[0m\e[1;96m: \e[0m\e[1;93m\en' option
 
